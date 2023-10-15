@@ -9,7 +9,7 @@ price=soup.find_all('span',class_="a-price-whole")
 
 for txt in price:
 #     print(price.select('.a-price-whole'))
-    print(txt.getText())
+    print("The Price of"txt.getText())
 #     product_price = price.get_text(strip=True)
 #     print(product_price)
 #     txt.append(str(price.text).strip())
