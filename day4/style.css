@@ -1,0 +1,40 @@
+h1{
+
+    background-color: #b5b6c7;
+    text-align: center;
+    color: #520a1c;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    color: #040833;
+
+
+
+}
+
+.image{ 
+    
+    display: flex;
+    justify-content: end;
+    height: auto;
+    opacity: 0.3;
+  }
+.d1{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    color: #080c3e;
+    text-decoration: none;
+    
+}
+
+body{
+    background-color:#b5b6c7 ;
+    
+    /* background: url('https://i.vimeocdn.com/video/969983360-08be34661c89bc975fc7d83249e9bad02be4314761b59aaf7b0b8cc089ba9357-d_640x360.jpg') repeat;
+    animation: moveBackground 10s linear infinite;  */
+}
