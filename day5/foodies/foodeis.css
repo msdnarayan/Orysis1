@@ -1,0 +1,16 @@
+
+.image1 {
+    float: left;
+    width: 33.33%;
+    padding-top: 6px;
+    padding: 3px;
+  }
+  
+  .first::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+body{
+    background-color: rgb(187, 207, 206);
+}

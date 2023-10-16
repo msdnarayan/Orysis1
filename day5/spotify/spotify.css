@@ -1,0 +1,49 @@
+/* .charts{
+    float: left;
+}
+.fav-album{
+    width: 30%;
+}
+.fav-album{
+    max-width: 20%;
+    height: 20%;
+    display: block;
+    margin: 0 auto;
+
+} */
+ th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(193, 202, 205);
+    
+    text-align: center;
+    height: 100px;
+  }
+  table{
+    width: 100%
+   
+  }
+  .first{
+    padding-right: 30px;
+  }
+  body{
+    background-color: rgb(156, 179, 179);
+  }
+
+  .streak{
+    width:10%;
+  }
+
+  .spotify{
+    display: flex;
+    align-items: center;
+}
+
+.album{
+    height: 130px;
+    width: 250px;
+   
+    
+    
+}
+

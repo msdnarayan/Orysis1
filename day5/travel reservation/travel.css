@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(76, 14, 110, 0.268);
+    background-image: url("https://e0.pxfuel.com/wallpapers/253/594/desktop-wallpaper-traveling-background-traveling-travel-around-the-world.jpg"
+    );
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: centre;
+    background-size: cover; 
+    width: 100%;
+    opacity: 105%;
+    
+}
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(125, 96, 57);
+    font-size: 13px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 35%;
+    color: rgba(41, 76, 12, 0.805);
+   
+}
+label{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(17, 105, 105);
+}
