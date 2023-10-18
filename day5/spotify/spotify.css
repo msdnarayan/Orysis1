@@ -11,13 +11,25 @@
     margin: 0 auto;
 
 } */
- th, td {
-    border: 1px solid black;
+  td {
+    /* border: 1px solid black; */
     border-collapse: collapse;
     background-color: rgb(193, 202, 205);
     
     text-align: center;
-    height: 100px;
+    height: 50px;
+  }
+  .title{
+    background-color: rgb(21, 188, 71);
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    text-align: center;
+  }
+  .track :hover{
+    transform: scale(1.3);
+    font-size: large;
+    color: rgb(35, 147, 25);
+    
   }
   table{
     width: 100%
@@ -27,7 +39,7 @@
     padding-right: 30px;
   }
   body{
-    background-color: rgb(156, 179, 179);
+    background-color: rgb(102, 143, 143);
   }
 
   .streak{
@@ -40,10 +52,35 @@
 }
 
 .album{
-    height: 130px;
-    width: 250px;
-   
-    
-    
+    height: 100px;
+    width: 500px;
+
+}
+.album iframe:hover{
+  
+  width: 60%;
+  height: 80%;
+}
+.number{
+  height: 100px;
+}
+.track{
+  height: 100px;
+  width: 25%;
+  color: rgb(2, 3, 2);
+}
+.artist{
+  height: 100px;
+  width: 25%;
+  color: #963f3f;
+
+  
 }
 
+.artist :hover{
+  transform: scale(1.3);
+  font-size: large;
+  color: rgb(35, 147, 25);
+  
+  
+}
